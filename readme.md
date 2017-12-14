@@ -29,7 +29,7 @@ Best resources for first start learning something is youtube
 Second resouces are online courses: such as Udemy, Coursera, Udacity, they offer some free courses with hiqh quality content
 - Search google with the keyword such as "Android Course Udacity" or "Introduction to Java Coursera"
 
-After you are familiar with video lesson, it's time to learn by reading:
+#### After you are familiar with video lesson, it's time to learn by reading:
 
 Start by reading blog such as medium.com, dev.to, and other programming blog
 - Keyword contain such as "Getting start with web development", "C++ tutorial"
