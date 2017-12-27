@@ -46,3 +46,9 @@ Using community
 Reading books
 - When you really want to understand something in detail, it is time to start reading book
 - To find good book, search amazon for the most star book with the topic you like, example "Algorithm with C++"
+
+
+# Various Programming Resources
+
+## Game
+Codingame: https://www.codingame.com/start
