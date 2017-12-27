@@ -7,6 +7,7 @@ For C++ specific resources, we are going to follow tutorialspoint lesson on c++ 
 # Exercise 
 
 Exercism: http://exercism.io/languages/cpp/exercises 
+
 Hackkerank: https://www.hackerrank.com/domains/cpp/cpp-introduction
 
 
