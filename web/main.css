@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:arial;
+}
+
+.title{
+    margin:0;
+    /* background-color:green; */
+    padding:10px;
+}
+
+.nav{
+    background-color:darkgray;
+    height:30px;
+}
+
+.nav div {
+    float:left;
+    padding:6px;
+    color:white;
+}
+
+.clear{
+    clear:both;
+}

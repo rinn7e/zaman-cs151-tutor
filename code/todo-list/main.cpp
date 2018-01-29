@@ -27,6 +27,9 @@ class Task {
         }
 };
 
+// string taskContent = "Task 2 Content";
+// taskList.push_back(taskTitle);
+// vector<string> taskList;
 // void listFile(string fileName) {
 //     // string line;
 //     // ifstream myfile (fileName);
@@ -107,6 +110,9 @@ void loop(vector<Task> taskList){
     // taskList.push_back(new Task (1, "Title 1", "Task1"));
     
     int i;
+    cout << "[1] View all task" << endl;
+    cout << "[2] Add new task" << endl;
+    cout << "[0] Quit program" << endl;
     cout << "Please Input your command: ";
     cin >> i;
     if (i == 0){
@@ -133,8 +139,8 @@ int main() {
     // cout << task1.title << endl;
     // cout << taskList[0].title << endl;
     vector<Task> defaultTaskList;
-    defaultTaskList.push_back(Task (1, "Task 1", "Task 1 Content"));
-    defaultTaskList.push_back(Task (2, "Task 2", "Task 2 Content"));
+    defaultTaskList.push_back(Task (1, "Today", "Go buy sth"));
+    defaultTaskList.push_back(Task (2, "Tomorrow", "Go eat sth"));
     loop(defaultTaskList);
 }
 
